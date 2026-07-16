@@ -59,8 +59,15 @@ https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras
 
 Proyecto desarrollado para el Gobierno Regional de La Araucanía, orientado a identificar las principales causas de rechazo de iniciativas de inversión. Se automatizó la extracción y estructuración de información desde documentos PDF mediante Python y se aplicaron minería de texto y Lean Six Sigma para detectar patrones, causas raíz y oportunidades de mejora. Como resultado, se propuso un modelo progresivo de estandarización, digitalización y analítica avanzada para reducir reprocesos y mejorar la toma de decisiones.
 
-Link paguina resultados lean six sigma por etapas(DMAIC):
+Link páguina resultados lean six sigma por etapas(DMAIC):
 https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/
+
+Link de Informe:
+https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing
+
+Link Presentación: 
+https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true
+
 
 
 
