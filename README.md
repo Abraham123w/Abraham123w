@@ -51,11 +51,16 @@ Me interesa desarrollar soluciones que combinen análisis de datos, automatizaci
 ### Dashboard predictivo de aguas lluvias
 
 Dashboard predictivo para planificar el mantenimiento de cámaras de aguas lluvias. Utiliza Machine Learning, datos históricos y visualización geoespacial para estimar fechas óptimas de limpieza, detectar sectores críticos y optimizar la asignación de recursos municipales.
+
+Link de dashboard: 
 https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras-Aguas-Lluvias/
 
 ### Mejora de procesos con Lean Six Sigma
 
-Análisis de procesos mediante herramientas como Pareto, Ishikawa y análisis de causa raíz para identificar oportunidades de mejora.
+Proyecto desarrollado para el Gobierno Regional de La Araucanía, orientado a identificar las principales causas de rechazo de iniciativas de inversión. Se automatizó la extracción y estructuración de información desde documentos PDF mediante Python y se aplicaron minería de texto y Lean Six Sigma para detectar patrones, causas raíz y oportunidades de mejora. Como resultado, se propuso un modelo progresivo de estandarización, digitalización y analítica avanzada para reducir reprocesos y mejorar la toma de decisiones.
+
+Link paguina resultados lean six sigma por etapas(DMAIC):
+https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/
 
 
 
