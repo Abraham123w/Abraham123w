@@ -37,7 +37,6 @@ Entre mis principales competencias se encuentran:
 
 - Power BI
 - Looker Studio
-- Chart.js
 - Diseño de dashboards
 - Creación y seguimiento de indicadores
 
