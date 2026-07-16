@@ -31,7 +31,7 @@ Entre mis principales competencias se encuentran:
 - Excel
 - Minería de datos
 - Análisis estadístico
-- Simulación Monte Carlo
+
 
 ### Visualización y Business Intelligence
 
@@ -48,6 +48,7 @@ Entre mis principales competencias se encuentran:
 - HTML
 - CSS
 - Bases de datos relacionales
+- Base de datos vectoriales
 - Google Workspace
 
 ### Inteligencia artificial y automatización
