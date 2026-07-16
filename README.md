@@ -52,17 +52,16 @@ Me interesa desarrollar soluciones que combinen análisis de datos, automatizaci
 
 Proyecto orientado al análisis y visualización de información meteorológica para apoyar la toma de decisiones mediante indicadores y modelos predictivos.
 
+### Mejora de procesos con Lean Six Sigma
+
+Análisis de procesos mediante herramientas como Pareto, Ishikawa y análisis de causa raíz para identificar oportunidades de mejora.
+<img width="392" height="272" alt="image" src="https://github.com/user-attachments/assets/98e72786-2186-4da8-9c1a-d75dac792a6d" />
+
+
 ### Simulación Monte Carlo
 
 Modelo desarrollado en Python para analizar escenarios, incertidumbre, capacidad operacional y riesgos asociados a la planificación.
 
-### Mejora de procesos con Lean Six Sigma
-
-Análisis de procesos mediante herramientas como Pareto, Ishikawa y análisis de causa raíz para identificar oportunidades de mejora.
-
-### Análisis y visualización de datos regionales
-
-Diseño de indicadores, dashboards y propuestas de automatización para apoyar el seguimiento de información institucional y regional.
 
 ## Actualmente estoy aprendiendo
 
