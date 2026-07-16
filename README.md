@@ -56,7 +56,7 @@ El dashboard transforma los datos históricos en información útil para la toma
 
 **Tecnologías:** Python, Machine Learning, JavaScript, HTML, CSS, Leaflet.js y Chart.js.
 
-🔗 **[Ver dashboard interactivo](https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras-Aguas-Lluvias/)**
+**[Ver dashboard interactivo](https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras-Aguas-Lluvias/)**
 
 ---
 
@@ -68,11 +68,11 @@ Mediante **Python**, se automatizó la extracción, limpieza y estructuración d
 
 Como resultado, se diseñó una propuesta progresiva de **estandarización, digitalización y analítica avanzada**, orientada a reducir reprocesos, mejorar la trazabilidad de la información y fortalecer la toma de decisiones basada en datos.
 
-🔗 **[Ver resultados del análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
+**[Ver resultados del análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
 
-📄 **[Ver informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**
+**[Ver informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**
 
-📊 **[Ver presentación del proyecto](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
+**[Ver presentación del proyecto](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
 
 
 
