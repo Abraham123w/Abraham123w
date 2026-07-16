@@ -48,32 +48,31 @@ Me interesa desarrollar soluciones que combinen análisis de datos, automatizaci
 
 ## Proyectos destacados
 
-### Dashboard predictivo de aguas lluvias
-
 ### Dashboard predictivo para el mantenimiento de cámaras de aguas lluvias
 
-Aplicación web desarrollada para apoyar la planificación del mantenimiento preventivo de cámaras de aguas lluvias. La solución combina **Machine Learning, registros históricos de limpieza y visualización geoespacial** para estimar las próximas fechas de intervención, identificar sectores críticos y priorizar las tareas operativas.
+Aplicación web desarrollada para apoyar la planificación del mantenimiento preventivo de cámaras de aguas lluvias. La solución combina **machine learning, registros históricos de limpieza y visualización geoespacial** para estimar las próximas fechas de intervención, identificar sectores críticos y priorizar las tareas operativas.
 
-El dashboard permite transformar datos históricos en información útil para la toma de decisiones, contribuyendo a una asignación más eficiente de cuadrillas, camiones vactor y otros recursos municipales.
+El dashboard transforma los datos históricos en información útil para la toma de decisiones, contribuyendo a una asignación más eficiente de cuadrillas, camiones vactor y otros recursos municipales.
 
 **Tecnologías:** Python, Machine Learning, JavaScript, HTML, CSS, Leaflet.js y Chart.js.
 
 🔗 **[Ver dashboard interactivo](https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras-Aguas-Lluvias/)**
 
+---
 
-### Optimización de procesos con Lean Six Sigma
+### Optimización del proceso de evaluación de proyectos con Lean Six Sigma
 
-Proyecto desarrollado para el **Gobierno Regional de La Araucanía**, enfocado en identificar las principales causas de rechazo de iniciativas de inversión pública y detectar oportunidades de mejora dentro del proceso de evaluación técnica.
+Proyecto desarrollado para el **Gobierno Regional de La Araucanía**, enfocado en identificar las principales causas de rechazo de iniciativas de inversión pública y detectar oportunidades de mejora en el proceso de evaluación técnica.
 
-Mediante **Python**, se automatizó la extracción, limpieza y estructuración de información proveniente de documentos PDF. Posteriormente, se aplicaron técnicas de **minería de texto** y la metodología **Lean Six Sigma**, utilizando el ciclo **DMAIC**, para analizar patrones recurrentes, identificar causas raíz y definir acciones de mejora.
+Mediante **Python**, se automatizó la extracción, limpieza y estructuración de información proveniente de documentos PDF. Posteriormente, se aplicaron técnicas de **minería de texto** y la metodología **Lean Six Sigma**, a través del ciclo **DMAIC**, para identificar patrones recurrentes, analizar causas raíz y definir acciones de mejora.
 
 Como resultado, se diseñó una propuesta progresiva de **estandarización, digitalización y analítica avanzada**, orientada a reducir reprocesos, mejorar la trazabilidad de la información y fortalecer la toma de decisiones basada en datos.
 
- **[Ver resultados del análisis Lean Six Sigma por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
+🔗 **[Ver resultados del análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
 
- **[Ver informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**
+📄 **[Ver informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**
 
- **[Ver presentación del proyecto](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
+📊 **[Ver presentación del proyecto](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
 
 
 
