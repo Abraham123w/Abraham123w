@@ -50,12 +50,13 @@ Me interesa desarrollar soluciones que combinen análisis de datos, automatizaci
 
 ### Dashboard predictivo de aguas lluvias
 
-Proyecto orientado al análisis y visualización de información meteorológica para apoyar la toma de decisiones mediante indicadores y modelos predictivos.
+Dashboard predictivo para planificar el mantenimiento de cámaras de aguas lluvias. Utiliza Machine Learning, datos históricos y visualización geoespacial para estimar fechas óptimas de limpieza, detectar sectores críticos y optimizar la asignación de recursos municipales.
+https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras-Aguas-Lluvias/
 
 ### Mejora de procesos con Lean Six Sigma
 
 Análisis de procesos mediante herramientas como Pareto, Ishikawa y análisis de causa raíz para identificar oportunidades de mejora.
-<img width="392" height="272" alt="image" src="https://github.com/user-attachments/assets/98e72786-2186-4da8-9c1a-d75dac792a6d" />
+
 
 
 ### Simulación Monte Carlo
