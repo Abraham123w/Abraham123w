@@ -102,14 +102,6 @@ Como resultado, se diseñó una propuesta progresiva de **estandarización, digi
 
 ---
 
-### Simulación Monte Carlo para análisis operacional
-
-Modelo desarrollado en **Python** para analizar escenarios bajo condiciones de incertidumbre, evaluar la capacidad operacional e identificar riesgos asociados a la planificación.
-
-La simulación permite comparar posibles resultados, estimar probabilidades y entregar información cuantitativa para apoyar la toma de decisiones.
-
-**Tecnologías utilizadas:** Python, simulación Monte Carlo, análisis estadístico y visualización de datos.
-
 ## Actualmente estoy aprendiendo
 
 Actualmente continúo fortaleciendo mis conocimientos en:
