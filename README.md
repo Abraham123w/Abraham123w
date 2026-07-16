@@ -1,48 +1,70 @@
-# Hola, soy Abraham Castro
+# Hola, soy Abraham Castro 
 
-Estudiante de **Ingeniería Civil Industrial con mención en Informática** en la Universidad de La Frontera. Actualmente me encuentro finalizando mi actividad de titulación.
+Soy estudiante de **Ingeniería Civil Industrial con mención en Informática** en la **Universidad de La Frontera** y actualmente me encuentro finalizando mi proceso de titulación.
 
-Me interesa desarrollar soluciones que combinen análisis de datos, automatización de procesos, inteligencia artificial y mejora continua.
+Me interesa desarrollar soluciones que integren **análisis de datos, inteligencia artificial, automatización y mejora continua**, transformando información compleja en herramientas útiles para optimizar procesos y apoyar la toma de decisiones.
 
-> Transformando datos y procesos en información útil para la toma de decisiones.
+> Transformando datos y procesos en información útil para tomar mejores decisiones.
 
 ## Sobre mí
 
-- Experiencia en análisis de datos, indicadores y visualización de información.
-- Conocimientos en mejora de procesos y Lean Six Sigma.
-- Uso de Python para análisis y simulación.
+Mi formación combina conocimientos de ingeniería, gestión y tecnología. He participado en proyectos relacionados con análisis de datos, automatización, modelamiento predictivo, visualización de información y optimización de procesos.
+
+Entre mis principales competencias se encuentran:
+
+- Análisis, limpieza y estructuración de datos.
+- Diseño de indicadores y visualización de información.
+- Automatización y análisis mediante Python.
 - Manejo de SQL y bases de datos relacionales.
-- Creación de dashboards con Power BI y Looker Studio.
-- Uso de herramientas de inteligencia artificial generativa y modelos de lenguaje.
+- Desarrollo de dashboards con Power BI y Looker Studio.
+- Aplicación de Lean Six Sigma y análisis de procesos.
+- Uso de inteligencia artificial generativa y modelos de lenguaje.
 - Disponibilidad para traslado y cambio de residencia.
 
 ## Tecnologías y herramientas
 
-### Datos y visualización
+### Análisis de datos
 
 - Python
 - SQL
+- R
+- Excel
+- Minería de datos
+- Análisis estadístico
+- Simulación Monte Carlo
+
+### Visualización y Business Intelligence
+
 - Power BI
 - Looker Studio
-- Excel
-- R
-- Java
-  
+- Chart.js
+- Diseño de dashboards
+- Creación y seguimiento de indicadores
 
-### Programación y tecnología
+### Programación y desarrollo
 
 - Java
+- JavaScript
 - HTML
-- Inteligencia artificial generativa
-- Modelos de lenguaje, LLM
+- CSS
+- Bases de datos relacionales
 - Google Workspace
+
+### Inteligencia artificial y automatización
+
+- Machine Learning
+- Inteligencia artificial generativa
+- Modelos de lenguaje — LLM
+- Automatización de procesos con Python
+- Minería y procesamiento de texto
 
 ### Procesos y gestión
 
 - Lean Six Sigma
+- Metodología DMAIC
 - Bizagi
 - MS Project
-- Análisis de procesos
+- Análisis y mejora de procesos
 - Diseño de indicadores
 - Gestión de riesgos
 
@@ -50,11 +72,13 @@ Me interesa desarrollar soluciones que combinen análisis de datos, automatizaci
 
 ### Dashboard predictivo para el mantenimiento de cámaras de aguas lluvias
 
-Aplicación web desarrollada para apoyar la planificación del mantenimiento preventivo de cámaras de aguas lluvias. La solución combina **machine learning, registros históricos de limpieza y visualización geoespacial** para estimar las próximas fechas de intervención, identificar sectores críticos y priorizar las tareas operativas.
+Aplicación web desarrollada para apoyar la planificación del mantenimiento preventivo de cámaras de aguas lluvias.
+
+La solución combina **machine learning, registros históricos de limpieza y visualización geoespacial** para estimar las próximas fechas de intervención, identificar sectores críticos y priorizar las tareas operativas.
 
 El dashboard transforma los datos históricos en información útil para la toma de decisiones, contribuyendo a una asignación más eficiente de cuadrillas, camiones vactor y otros recursos municipales.
 
-**Tecnologías:** Python, Machine Learning, JavaScript, HTML, CSS, Leaflet.js y Chart.js.
+**Tecnologías utilizadas:** Python, Machine Learning, JavaScript, HTML, CSS, Leaflet.js y Chart.js.
 
 **[Ver dashboard interactivo](https://abraham123w.github.io/Dashboard_Predictivo_para_Mantenimiento_de_c-maras-Aguas-Lluvias/)**
 
@@ -62,11 +86,13 @@ El dashboard transforma los datos históricos en información útil para la toma
 
 ### Optimización del proceso de evaluación de proyectos con Lean Six Sigma
 
-Proyecto desarrollado para el **Gobierno Regional de La Araucanía**, enfocado en identificar las principales causas de rechazo de iniciativas de inversión pública y detectar oportunidades de mejora en el proceso de evaluación técnica.
+Proyecto desarrollado para el **Gobierno Regional de La Araucanía**, enfocado en identificar las principales causas de rechazo de iniciativas de inversión pública y detectar oportunidades de mejora en su proceso de evaluación técnica.
 
-Mediante **Python**, se automatizó la extracción, limpieza y estructuración de información proveniente de documentos PDF. Posteriormente, se aplicaron técnicas de **minería de texto** y la metodología **Lean Six Sigma**, a través del ciclo **DMAIC**, para identificar patrones recurrentes, analizar causas raíz y definir acciones de mejora.
+Mediante **Python**, se automatizó la extracción, limpieza y estructuración de información proveniente de documentos PDF. Posteriormente, se aplicaron técnicas de **minería de texto** y la metodología **Lean Six Sigma**, utilizando el ciclo **DMAIC**, para identificar patrones recurrentes, analizar causas raíz y establecer acciones de mejora.
 
 Como resultado, se diseñó una propuesta progresiva de **estandarización, digitalización y analítica avanzada**, orientada a reducir reprocesos, mejorar la trazabilidad de la información y fortalecer la toma de decisiones basada en datos.
+
+**Tecnologías y metodologías utilizadas:** Python, minería de datos, minería de texto, Lean Six Sigma, DMAIC, HTML y análisis de procesos.
 
 **[Ver resultados del análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
 
@@ -74,37 +100,43 @@ Como resultado, se diseñó una propuesta progresiva de **estandarización, digi
 
 **[Ver presentación del proyecto](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
 
+---
 
+### Simulación Monte Carlo para análisis operacional
 
+Modelo desarrollado en **Python** para analizar escenarios bajo condiciones de incertidumbre, evaluar la capacidad operacional e identificar riesgos asociados a la planificación.
 
+La simulación permite comparar posibles resultados, estimar probabilidades y entregar información cuantitativa para apoyar la toma de decisiones.
 
-### Simulación Monte Carlo
-
-Modelo desarrollado en Python para analizar escenarios, incertidumbre, capacidad operacional y riesgos asociados a la planificación.
-
+**Tecnologías utilizadas:** Python, simulación Monte Carlo, análisis estadístico y visualización de datos.
 
 ## Actualmente estoy aprendiendo
 
-- Automatización con Python
-- SQL aplicado al análisis de datos
-- Power BI y modelamiento de datos
-- Inteligencia artificial generativa
-- Inglés B1
+Actualmente continúo fortaleciendo mis conocimientos en:
+
+- Automatización avanzada con Python.
+- SQL aplicado al análisis de datos.
+- Power BI y modelamiento de datos.
+- Inteligencia artificial generativa.
+- Machine Learning.
+- Inglés, nivel B1.
 
 ## Objetivo profesional
 
-Busco oportunidades en áreas de:
+Busco oportunidades laborales o proyectos en áreas relacionadas con:
 
-- Análisis de datos
-- Business Intelligence
-- Control de gestión
-- Procesos y automatización
-- Operaciones y logística
-- Gestión de riesgos
-- Transformación digital
-- Analista Quantitativo
+- Análisis de datos.
+- Business Intelligence.
+- Control de gestión.
+- Mejora y automatización de procesos.
+- Operaciones y logística.
+- Gestión de riesgos.
+- Transformación digital.
+- Análisis cuantitativo.
+
+Mi objetivo es participar en equipos donde pueda integrar mis conocimientos de **ingeniería, gestión y tecnología** para desarrollar soluciones que generen mejoras medibles y faciliten la toma de decisiones.
 
 ## Contacto
 
-- LinkedIn: [Abraham Andrés Castro Copa](https://www.linkedin.com/in/abraham-andes-castro-copa-40529a2a5/)
-- Correo: castrocopaabrahamandres@gmail.com
+- **LinkedIn:** [Abraham Andrés Castro Copa](https://www.linkedin.com/in/abraham-andes-castro-copa-40529a2a5/)
+- **Correo:** [castrocopaabrahamandres@gmail.com](mailto:castrocopaabrahamandres@gmail.com)
