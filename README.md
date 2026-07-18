@@ -88,7 +88,7 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 <tr>
 <td width="50%" valign="top">
 
-### 💧 Dashboard predictivo de mantenimiento
+### Dashboard predictivo de mantenimiento
 
 Aplicación web para planificar el mantenimiento preventivo de cámaras de aguas lluvias, combinando **machine learning, historial de limpieza y visualización geoespacial** para estimar fechas de intervención y priorizar sectores críticos.
 
@@ -102,7 +102,7 @@ Aplicación web para planificar el mantenimiento preventivo de cámaras de aguas
 </td>
 <td width="50%" valign="top">
 
-### 📈 Lean Six Sigma en el GORE Araucanía
+### Lean Six Sigma en el GORE Araucanía
 
 Análisis de causas de rechazo de iniciativas de inversión pública. Automatización de extracción de datos desde PDF con **Python**, minería de texto y ciclo **DMAIC** para proponer estandarización y digitalización del proceso.
 
