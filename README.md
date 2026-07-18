@@ -120,15 +120,6 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 
 <br>
 
-## Actividad en GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abraham123w&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham123w&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-</div>
-
-<br>
-
 ## Actualmente aprendiendo
 
 ![Python](https://img.shields.io/badge/-Automatización%20avanzada%20con%20Python-3776AB?style=flat-square&logo=python&logoColor=white)
