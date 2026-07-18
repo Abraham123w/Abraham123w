@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Abraham Castro</h1>
 
 <p align="center">
-Estudiante de <b>Ingeniería Civil Industrial, mención Informática</b> — Universidad de La Frontera<br>
+Estudiante de <b>Ingeniería Civil Industrial, mención Informática</b>, Universidad de La Frontera<br>
 Transformando datos y procesos en información útil para tomar mejores decisiones.
 </p>
 
@@ -11,7 +11,7 @@ Transformando datos y procesos en información útil para tomar mejores decision
 
 Estoy finalizando mi proceso de titulación en Ingeniería Civil Industrial con mención en Informática. Me interesa construir soluciones que integren **análisis de datos, inteligencia artificial, automatización y mejora continua de procesos**, con foco en convertir información compleja en herramientas prácticas para la toma de decisiones.
 
-Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en proyectos de análisis de datos, modelamiento predictivo, visualización de información y optimización de procesos — tanto en contexto académico como en un proyecto real para el Gobierno Regional de La Araucanía.
+Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en proyectos de análisis de datos, modelamiento predictivo, visualización de información y optimización de procesos, tanto en contexto académico como en un proyecto real para el Gobierno Regional de La Araucanía.
 
 **Algunas de mis competencias principales:**
 
@@ -49,7 +49,7 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 
 ### Dashboard predictivo para el mantenimiento de cámaras de aguas lluvias
 
-Aplicación web para apoyar la planificación del mantenimiento preventivo de cámaras de aguas lluvias. Combina **machine learning, registros históricos de limpieza y visualización geoespacial** para estimar próximas fechas de intervención, identificar sectores críticos y priorizar tareas operativas — apoyando una asignación más eficiente de cuadrillas, camiones vactor y otros recursos municipales.
+Aplicación web para apoyar la planificación del mantenimiento preventivo de cámaras de aguas lluvias. Combina **machine learning, registros históricos de limpieza y visualización geoespacial** para estimar próximas fechas de intervención, identificar sectores críticos y priorizar tareas operativas. Esto apoya una asignación más eficiente de cuadrillas, camiones vactor y otros recursos municipales.
 
 **Tecnologías:** Python · Machine Learning · JavaScript · HTML · CSS · Leaflet.js · Chart.js
 
