@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Abraham%20Castro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analisis%20de%20datos%20%7C%20Automatizacion%20%7C%20Procesos&descAlignY=58&descSize=18" width="100%"/>
 
-### Estudiante de Ingeniería Civil Industrial, mención Informática, Universidad de La Frontera
+### Estudiante de Ingeniería Civil Industrial, mención Informática — Universidad de La Frontera
 
-*Transformando datos y procesos en información útil para tomar mejores decisiones.*
+*Transformo datos y procesos en información útil para tomar mejores decisiones.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Castro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-andes-castro-copa-40529a2a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castrocopaabrahamandres@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamcastrocopa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Abraham123w-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abraham123w)
 
 </div>
@@ -16,9 +16,9 @@
 
 ## Sobre mí
 
-Estoy finalizando mi proceso de titulación en Ingeniería Civil Industrial con mención en Informática. Me interesa construir soluciones que integren **análisis de datos, inteligencia artificial, automatización y mejora continua de procesos**, con foco en convertir información compleja en herramientas prácticas para la toma de decisiones.
+Estoy finalizando mi proceso de titulación en Ingeniería Civil Industrial, mención Informática. Me interesa construir soluciones que integren **análisis de datos, automatización e inteligencia artificial** con **mejora continua de procesos**, transformando información compleja en herramientas prácticas para la toma de decisiones.
 
-Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en proyectos de análisis de datos, modelamiento predictivo, visualización de información y optimización de procesos, tanto en contexto académico como en un proyecto real para el Gobierno Regional de La Araucanía.
+He aplicado esta formación en proyectos de análisis de datos, modelamiento predictivo, visualización de información y optimización de procesos — tanto en contexto académico como en un proyecto real para el Gobierno Regional de La Araucanía.
 
 <table>
 <tr>
@@ -33,10 +33,10 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+**También manejo:**
 - Dashboards con Power BI, Looker Studio y Tableau
 - Lean Six Sigma y análisis de procesos (DMAIC)
-- IA generativa y modelos de lenguaje (LLM)
+- Fundamentos de IA generativa y modelos de lenguaje (LLM)
 - Disponibilidad para traslado y cambio de residencia
 
 </td>
@@ -70,7 +70,6 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googlesheets&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
@@ -88,6 +87,7 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 ![DMAIC](https://img.shields.io/badge/DMAIC-8A2BE2?style=flat-square)
 ![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=flat-square&logo=microsoftproject&logoColor=white)
 ![Bizagi](https://img.shields.io/badge/Bizagi-FF6600?style=flat-square)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googlesheets&logoColor=white)
 
 <br>
 
@@ -119,8 +119,8 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 ![DMAIC](https://img.shields.io/badge/-DMAIC-8A2BE2?style=flat-square)
 ![Text Mining](https://img.shields.io/badge/-Minería%20de%20texto-8A2BE2?style=flat-square)
 
-**[→ Ver análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**  
-**[→ Informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**  
+**[→ Ver análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
+**[→ Informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**
 **[→ Presentación](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
 
 </td>
@@ -139,7 +139,7 @@ Proyecto desarrollado en **Python** para modelar y simular una planta de primer 
 
 El trabajo incluye análisis de sensibilidad de la ganancia del proceso, la constante de tiempo y el retardo puro. También incorpora una simulación de lazo cerrado con ocho configuraciones de control PI, evaluación del error de seguimiento y cálculo de métricas de desempeño como sobreimpulso, tiempo de establecimiento, IAE e ISE.
 
-#### Principales elementos del proyecto
+**Principales elementos del proyecto:**
 
 - Modelamiento de la planta mediante funciones de transferencia.
 - Simulación de respuestas a escalón en lazo abierto y cerrado.
@@ -173,9 +173,9 @@ El trabajo incluye análisis de sensibilidad de la ganancia del proceso, la cons
 
 Repositorio completo del **Certificado Profesional Avanzado de Análisis de Datos de Google**, con proyectos desarrollados en Python, Google Colab y Tableau siguiendo el marco de trabajo **PACE: Plan, Analyze, Construct y Execute**.
 
-El repositorio documenta un recorrido progresivo por el análisis de datos, desde la exploración inicial y la estadística inferencial hasta la regresión, el machine learning y la comunicación de recomendaciones orientadas al negocio.
+Documenta un recorrido progresivo por el análisis de datos: exploración inicial, estadística inferencial, regresión, machine learning y comunicación de recomendaciones orientadas al negocio.
 
-#### Proyectos incluidos
+**Proyectos incluidos:**
 
 - Análisis inicial y preparación de datos de viajes de taxis de Nueva York.
 - Análisis exploratorio de datos y visualización.
@@ -197,7 +197,7 @@ El repositorio documenta un recorrido progresivo por el análisis de datos, desd
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**[→ Ver página interactiva del certificado](https://abraham123w.github.io/Google-Advanced-Data-Analytics-Professional-Certificate/#proyectos)**  
+**[→ Ver página interactiva del certificado](https://abraham123w.github.io/Google-Advanced-Data-Analytics-Professional-Certificate/#proyectos)**
 **[→ Ver repositorio completo en GitHub](https://github.com/Abraham123w/Google-Advanced-Data-Analytics-Professional-Certificate)**
 
 </td>
@@ -213,7 +213,7 @@ El repositorio documenta un recorrido progresivo por el análisis de datos, desd
 ![Power BI](https://img.shields.io/badge/-Power%20BI%20y%20modelamiento-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau%20y%20visualización-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![AI](https://img.shields.io/badge/-IA%20generativa%20y%20ML-412991?style=flat-square&logo=openai&logoColor=white)
-![English](https://img.shields.io/badge/-Inglés%20B1-012169?style=flat-square&logo=readdotcv&logoColor=white)
+![English](https://img.shields.io/badge/-Inglés%20B1-012169?style=flat-square)
 
 <br>
 
