@@ -131,16 +131,15 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Simulación y automatización de procesos con control PI
 
 Proyecto desarrollado en **Python** para modelar y simular una planta de primer orden con retardo (**FOPDT**), analizar la influencia de sus parámetros y comparar distintas configuraciones de un controlador proporcional-integral.
 
-El trabajo incluye análisis de sensibilidad de la ganancia del proceso, la constante de tiempo y el retardo puro. También incorpora una simulación de lazo cerrado con ocho configuraciones de control PI, evaluación del error de seguimiento y cálculo de métricas de desempeño como sobreimpulso, tiempo de establecimiento, IAE e ISE.
+Incluye análisis de sensibilidad de la ganancia del proceso, la constante de tiempo y el retardo puro, simulación de lazo cerrado con ocho configuraciones de control PI, y cálculo de métricas de desempeño como sobreimpulso, tiempo de establecimiento, IAE e ISE.
 
-**Principales elementos del proyecto:**
-
+**Principales elementos:**
 - Modelamiento de la planta mediante funciones de transferencia.
 - Simulación de respuestas a escalón en lazo abierto y cerrado.
 - Análisis del efecto de la ganancia `K`, el retardo `L` y la constante de tiempo `τ`.
@@ -160,14 +159,7 @@ El trabajo incluye análisis de sensibilidad de la ganancia del proceso, la cons
 **[→ Ver página interactiva del proyecto](https://abraham123w.github.io/Automatizacion/#archivos)**
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Google Advanced Data Analytics Professional Certificate
 
@@ -176,7 +168,6 @@ Repositorio completo del **Certificado Profesional Avanzado de Análisis de Dato
 Documenta un recorrido progresivo por el análisis de datos: exploración inicial, estadística inferencial, regresión, machine learning y comunicación de recomendaciones orientadas al negocio.
 
 **Proyectos incluidos:**
-
 - Análisis inicial y preparación de datos de viajes de taxis de Nueva York.
 - Análisis exploratorio de datos y visualización.
 - Pruebas de hipótesis y análisis estadístico.
