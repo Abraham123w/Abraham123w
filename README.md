@@ -119,7 +119,45 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 </table>
 
 <br>
+<br>
 
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### Google Advanced Data Analytics Professional Certificate
+
+Repositorio completo del **Certificado Profesional Avanzado de Análisis de Datos de Google**, con proyectos desarrollados en Python, Google Colab y Tableau siguiendo el marco de trabajo **PACE: Plan, Analyze, Construct y Execute**.
+
+El repositorio documenta un proceso progresivo de análisis de datos, desde la exploración inicial hasta la construcción y evaluación de modelos predictivos.
+
+#### Proyectos incluidos
+
+- Análisis inicial y preparación de datos de viajes de taxis de Nueva York.
+- Análisis exploratorio de datos y visualización.
+- Pruebas de hipótesis y análisis estadístico.
+- Regresión lineal múltiple para predecir tarifas.
+- Modelos de clasificación con Random Forest y XGBoost.
+- Proyecto final de Salifort Motors para predecir rotación de empleados.
+- Dashboards interactivos desarrollados en Tableau.
+- Notebooks compatibles con Google Colab.
+- README y archivos de requerimientos para cada proyecto.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B2D?style=flat-square)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-4051B5?style=flat-square)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**[→ Ver repositorio completo del certificado](https://github.com/Abraham123w/Google-Advanced-Data-Analytics-Professional-Certificate)**
+
+</td>
+</tr>
+</table>
 ## Actualmente aprendiendo
 
 ![Python](https://img.shields.io/badge/-Automatización%20avanzada%20con%20Python-3776AB?style=flat-square&logo=python&logoColor=white)
