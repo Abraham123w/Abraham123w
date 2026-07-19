@@ -133,6 +133,42 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 <tr>
 <td width="100%" valign="top">
 
+### Simulación y automatización de procesos con control PI
+
+Proyecto desarrollado en **Python** para modelar y simular una planta de primer orden con retardo (**FOPDT**), analizar la influencia de sus parámetros y comparar distintas configuraciones de un controlador proporcional-integral.
+
+El trabajo incluye análisis de sensibilidad de la ganancia del proceso, la constante de tiempo y el retardo puro. También incorpora una simulación de lazo cerrado con ocho configuraciones de control PI, evaluación del error de seguimiento y cálculo de métricas de desempeño como sobreimpulso, tiempo de establecimiento, IAE e ISE.
+
+#### Principales elementos del proyecto
+
+- Modelamiento de la planta mediante funciones de transferencia.
+- Simulación de respuestas a escalón en lazo abierto y cerrado.
+- Análisis del efecto de la ganancia `K`, el retardo `L` y la constante de tiempo `τ`.
+- Aproximación de Padé para representar el retardo del proceso.
+- Comparación de ocho configuraciones del controlador PI.
+- Generación automática de gráficos, tablas y archivos de resultados.
+- Simulador interactivo integrado en la página web del proyecto.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Control PI](https://img.shields.io/badge/-Control%20PI-2DD4BF?style=flat-square)
+![FOPDT](https://img.shields.io/badge/-Modelo%20FOPDT-0F766E?style=flat-square)
+
+**[→ Ver página interactiva del proyecto](https://abraham123w.github.io/Automatizacion/#archivos)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
 ### Google Advanced Data Analytics Professional Certificate
 
 Repositorio completo del **Certificado Profesional Avanzado de Análisis de Datos de Google**, con proyectos desarrollados en Python, Google Colab y Tableau siguiendo el marco de trabajo **PACE: Plan, Analyze, Construct y Execute**.
