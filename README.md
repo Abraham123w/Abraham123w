@@ -34,7 +34,7 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 <td width="50%" valign="top">
 
 &nbsp;
-- Dashboards con Power BI y Looker Studio
+- Dashboards con Power BI, Looker Studio y Tableau
 - Lean Six Sigma y análisis de procesos (DMAIC)
 - IA generativa y modelos de lenguaje (LLM)
 - Disponibilidad para traslado y cambio de residencia
@@ -53,11 +53,16 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Visualización y Business Intelligence**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 **Programación y desarrollo**
 
@@ -66,10 +71,14 @@ Mi formación combina ingeniería, gestión y tecnología, y la he aplicado en p
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googlesheets&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 **Inteligencia artificial y automatización**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B2D?style=flat-square)
 ![IA Generativa](https://img.shields.io/badge/IA%20Generativa-412991?style=flat-square&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-10A37F?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -110,15 +119,14 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 ![DMAIC](https://img.shields.io/badge/-DMAIC-8A2BE2?style=flat-square)
 ![Text Mining](https://img.shields.io/badge/-Minería%20de%20texto-8A2BE2?style=flat-square)
 
-**[→ Ver análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**
-**[→ Informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**
+**[→ Ver análisis por etapas DMAIC](https://abraham123w.github.io/Lean-six-sigma-Gore-Araucan-a-/)**  
+**[→ Informe completo](https://docs.google.com/document/d/1i5L52w914YWXFtKpGpBCP2cBG93-G6dBk0sUMKYRaEI/edit?usp=sharing)**  
 **[→ Presentación](https://docs.google.com/presentation/d/1Wjy5ASvA1IaAP1-O_7P3uf5iUr_quwyv/edit?usp=sharing&ouid=116356854024432931754&rtpof=true&sd=true)**
 
 </td>
 </tr>
 </table>
 
-<br>
 <br>
 
 <table>
@@ -129,7 +137,7 @@ Análisis de causas de rechazo de iniciativas de inversión pública. Automatiza
 
 Repositorio completo del **Certificado Profesional Avanzado de Análisis de Datos de Google**, con proyectos desarrollados en Python, Google Colab y Tableau siguiendo el marco de trabajo **PACE: Plan, Analyze, Construct y Execute**.
 
-El repositorio documenta un proceso progresivo de análisis de datos, desde la exploración inicial hasta la construcción y evaluación de modelos predictivos.
+El repositorio documenta un recorrido progresivo por el análisis de datos, desde la exploración inicial y la estadística inferencial hasta la regresión, el machine learning y la comunicación de recomendaciones orientadas al negocio.
 
 #### Proyectos incluidos
 
@@ -158,11 +166,15 @@ El repositorio documenta un proceso progresivo de análisis de datos, desde la e
 </td>
 </tr>
 </table>
+
+<br>
+
 ## Actualmente aprendiendo
 
 ![Python](https://img.shields.io/badge/-Automatización%20avanzada%20con%20Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL%20aplicado%20a%20datos-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI%20y%20modelamiento-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau%20y%20visualización-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![AI](https://img.shields.io/badge/-IA%20generativa%20y%20ML-412991?style=flat-square&logo=openai&logoColor=white)
 ![English](https://img.shields.io/badge/-Inglés%20B1-012169?style=flat-square&logo=readdotcv&logoColor=white)
 
