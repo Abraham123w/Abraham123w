@@ -161,7 +161,7 @@ El repositorio documenta un recorrido progresivo por el análisis de datos, desd
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**[→ Ver repositorio completo del certificado](https://github.com/Abraham123w/Google-Advanced-Data-Analytics-Professional-Certificate)**
+**[→ Ver página interactiva del certificado](https://abraham123w.github.io/Google-Advanced-Data-Analytics-Professional-Certificate/#proyectos)**
 
 </td>
 </tr>
